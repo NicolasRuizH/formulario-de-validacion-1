@@ -1,0 +1,1 @@
+![Imagen del proyecto](./img/Captura.PNG)
